@@ -1,0 +1,16 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Python Debugger: Current File with Arguments",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "args": "'66075 (1.3.23 $2405.36 Two PM Laptops).pdf' '67004 (2.6.23 $1202.68 Don McCandless Laptop).pdf' '70416 (5.31.23 $186.18 8-port switch for CPP Bullpen).pdf' '70418 (5.31.23 $1213.38 PM Laptop).pdf' '70717 (6.15.23 ($127.33 Third In-Wall Access Point; Chase Gargiulo''s Office).pdf' '71793 (7.24.23 $1401.70 Erica Meile Replacement Desktop).pdf' '71795 (7.24.23 $127.33 In-Wall Access Point for Scott Weidle).pdf' '73449 (9.18.23 $1401.70 Shazia''s Replacement Desktop).pdf' '73932 (9.28.23 $1577.18 Joe Smallwood Repalcement Desktop).pdf' '74812 (10.18.23 $5917.10 5 Laptops for Onboarding) - Returned 3 of these laptops (see Credit Memo 76381).pdf'"
+        }
+    ]
+}
